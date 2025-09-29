@@ -1,1 +1,3 @@
 # Traffic-Light-Control-System_HimanshuMaurya
+Description of Traffic Light Control System
+The Traffic Light Control System is an automated system designed to manage the flow of traffic at intersections, ensuring safe and efficient movement of vehicles and pedestrians. The primary function of the system is to regulate the timing of traffic signals, optimizing the flow of traffic while minimizing accidents and reducing congestion. By utilizing a variety of components such as sensors, microcontrollers, and communication systems, traffic signals are adjusted dynamically based on real-time traffic conditions.
